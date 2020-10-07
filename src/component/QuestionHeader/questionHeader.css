@@ -1,0 +1,10 @@
+.header {
+  padding-bottom: 50px;
+  width: 80%;
+}
+
+.buttonContainer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
