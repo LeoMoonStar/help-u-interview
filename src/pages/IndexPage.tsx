@@ -20,9 +20,9 @@ export default class IndexPage extends Component {
         <h3>and please support this community together</h3>
         <div className="bottomGroup">
           <div>
-            <Link to="/me">
+            <a href="https://www.linkedin.com/in/jiaweiyang20/">
               <h4> Jiawei</h4>
-            </Link>
+            </a>
           </div>
           <Button variant="contained" color="primary" href="/list">
             Questions
